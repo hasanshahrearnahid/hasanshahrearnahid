@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Nahid
 #### Data-Driven Marketing
 
-Nahid is a Data-Driven Digital Marketing Strategist focused on the growth of Small Businesses and corporations to drive more REVENUE and CUSTOMERS. 
+Strategists focused on the growth of Small Businesses and corporations to drive more REVENUE and CUSTOMERS. 
 
 If you’re losing time, money, or worse... That’s when we come in. 
 
