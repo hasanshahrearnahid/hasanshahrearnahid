@@ -14,7 +14,7 @@ You’ve come to the right place. Send me a message today, and let’s discuss y
 
 Skills: Google Ads / Meta Ads / Server Side Tagging / Google Analytics / E-commerce Tracking / Conversion Optimization / looker Studio
 
-- 🔭 I’m currently working on Hakai Culture And Quiet Bounce. 
+- 🔭 I’m currently working on Hakai Culture And Pixie Posters. 
 - 👯 I’m looking to collaborate with Startups and Small size E-commerce Businesses. 
 - 📫 How to reach me: Via WhatsApp Or Email and Social Link. 
 - ⚡ Fun fact: We've spent 100K Day to Get 400% ROAS. 
