@@ -1,4 +1,4 @@
-![Data-Driven Marketing](https://pbs.twimg.com/profile_banners/1392418869130657794/1702651703/1080x360)
+https://cdn.dribbble.com/users/1124806/screenshots/4860159/ezgif.com-optimize.gif
 ### Hi there 👋, my name is Nahid
 #### Data-Driven Marketing
 
