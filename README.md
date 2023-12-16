@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+(https://pbs.twimg.com/profile_banners/1392418869130657794/1702651703/1080x360)
 <H1> Hi there 👋, my name is Nahid </H1>
 <h3> Data-Driven Marketing </h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 Strategists focused on the growth of Small Businesses and corporations to drive more REVENUE and CUSTOMERS. 
 
 If you’re losing time, money, or worse... That’s when we come in. 
