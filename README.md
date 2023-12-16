@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ### Hi there 👋, my name is Nahid
 #### Data-Driven Marketing
 
