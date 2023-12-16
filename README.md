@@ -12,7 +12,7 @@ At a price that won’t even break the bank.
 
 You’ve come to the right place. Send me a message today, and let’s discuss your challenges and come up with a great solution.
 
-Skills: Google Ads / Meta Ads / Server Side Tagging / Google Analytics / E-commerce Tracking / Conversion Optimization / looker Studio
+Skills: Google Ads / Meta Ads / Server Side Tagging / Google Analytics / E-commerce Tracking / Conversion Optimization / Looker Studio
 
 - 🔭 I’m currently working on Hakai Culture And Pixie Posters. 
 - 👯 I’m looking to collaborate with Startups and Small size E-commerce Businesses. 
