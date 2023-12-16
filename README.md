@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-### Hi there 👋, my name is Nahid
-#### Data-Driven Marketing
+<H1> Hi there 👋, my name is Nahid </H1>
+<h3> Data-Driven Marketing </h3>
 
 Strategists focused on the growth of Small Businesses and corporations to drive more REVENUE and CUSTOMERS. 
 
