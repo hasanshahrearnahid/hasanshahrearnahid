@@ -1,5 +1,5 @@
-<H1> Hi there 👋, my name is Nahid </H1>
-<h3> Data-Driven Marketing </h3>
+<H1> Hi there 👋, my name is Hasan </H1>
+<h3> Are you looking to increase your website traffic, generate more leads, and boost your sales? Our Google Ads expertise can help you achieve your marketing goals </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 Strategists focused on the growth of Small Businesses and corporations to drive more REVENUE and CUSTOMERS. 
 
@@ -11,9 +11,9 @@ At a price that won’t even break the bank.
 
 You’ve come to the right place. Send me a message today, and let’s discuss your challenges and come up with a great solution.
 
-Skills: Google Ads / Meta Ads / Server Side Tagging / Google Analytics / E-commerce Tracking / Conversion Optimization / Looker Studio
+Skills: Google Ads / Google Analytics / Conversion Tracking / Server Side Tagging / Looker Studio.
 
-- 🔭 I’m currently working on Hakai Culture And Pixie Posters. 
+- 🔭 I’m currently working on Kooheji jewelry, Hakai Culture, Pixie Posters, and Eiroy. 
 - 👯 I’m looking to collaborate with Startups and Small size E-commerce Businesses. 
 - 📫 How to reach me: Via WhatsApp Or Email and Social Link. 
 - ⚡ Fun fact: We've spent 100K Day to Get 400% ROAS. 
